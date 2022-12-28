@@ -8,7 +8,7 @@
 # 2) alejandro_caroca_solution_code.ipynb
 # Contiene de forma compacta el desarrollo del modelo de Machine-Learning 
 # Contiene la aplicación del algoritmo de predicción a 10.000.000 de datos hechos con random input
-# El modelo entrenado de ML se ha guardado en un Pickle llamado mode.pickle
+# El modelo entrenado de ML se ha guardado en un Pickle llamado model.pickle
 
 
 
