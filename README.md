@@ -14,4 +14,4 @@
 
 # 3) Los archivos, functions, piplines y encapsulated son archivos .py que son útiles si quieren utilizar el modelo como API.
 
-#4) Me faltó tiempo para comprar una versión de prueba en Google Cloud y probar la escala a 100.000.000 de inputs. Al menos es escalable a 10.000.000 con seguridad:(
+# 4) Me faltó tiempo para comprar una versión de prueba en Google Cloud y probar la escala a 100.000.000 de inputs. Al menos es escalable a 10.000.000 con seguridad:(
